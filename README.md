@@ -1,1 +1,1 @@
-Hola gente, mi nombre es Jvai
+Hola gente, mi nombre es Jvai, y esta es mi práctica de GITHUB
